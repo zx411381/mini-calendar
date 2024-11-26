@@ -1,0 +1,13 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+button {
+  cursor: pointer;
+}
